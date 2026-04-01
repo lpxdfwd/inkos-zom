@@ -1,0 +1,65 @@
+{
+  "chapter": 1,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "当前阶段重点是全书开局与第一个据点阶段。"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "丧尸病毒突然爆发，秩序在短时间内崩塌"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "暑假留校的林渊在宿舍中遭遇末日爆发，宿舍楼秩序瞬间崩塌"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 宿舍楼的原有日常秩序已被彻底打破，林渊和张昊被困在熟悉却突然变得危险的环境中；第一章不急于大规模撤离，而是要先通过观察、资源清点和一次小规模丧尸冲突，让两人真正意识到“这里已经不是原来的宿舍”，并在心理和行动上完成从普通学生到求生者的第一步转变"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 第一阶段先确认宿舍内外局势，观察楼道、走廊和周边动静，完成宿舍内部可用资源清点，判断当前是否还能短暂停留；在确保自身安全的前提下，处理一次近距离的丧尸威胁，为后续撤离宿舍楼和寻找更长期据点做准备"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 林渊，男大学生，暑假未回家，丧尸病毒爆发时正留在学校宿舍；目前身体状态正常，但精神高度紧绷，已经意识到宿舍楼内外环境发生剧变；手边只有宿舍内能临时充当武器和工具的杂物，尚未获得稳定物资和正式武器"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 暑假期间学校留校学生不多，整栋宿舍楼和校园环境空旷而压抑；宿舍楼内部感染范围不明，随时可能有新的危险出现；林渊和张昊缺乏成熟武器、防具和长期食物储备；目前对整栋楼的幸存者分布、丧尸活动规律和安全路线都不了解"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "资源 | progressing | 7 | 小卖铺中的具体物资到底够不够3人半个月使用，是否存在隐藏库存或短板资源"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "据点 | progressing | 8 | 学校小卖铺是否足够安全，门窗、防守条件和夜间风险能否支撑三人短期生存"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人物 | progressing | 6 | 路上救下的苏晴是否会完全信任林渊，并在小卖铺据点中稳定留下"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "环境 | progressing | 4 | 宿舍楼里除了林渊和张昊之外，是否还有幸存的留校学生，他们会成为助力、负担还是隐患"
+    }
+  ]
+}
