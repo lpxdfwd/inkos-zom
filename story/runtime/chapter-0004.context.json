@@ -1,0 +1,70 @@
+{
+  "chapter": 4,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "当前阶段重点是**三人正式拿下学校小卖铺，并把它从临时落脚点变成第一个可短期生存的据点**。"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "丧尸病毒突然爆发，秩序在短时间内崩塌"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "小卖铺的里面隔间中，藏有一个丧尸，在战斗中干掉了丧尸，但是主角被抓伤，主角自我隔离一夜，得出抓伤无效结论"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 校园环境开阔危险性增加；小卖铺卷帘门半开状态异常；队伍扩大后资源消耗加快"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 进入小卖铺获取长期资源，建立相对安全的临时据点"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 林渊身体状态：后背撞墙（肩胛骨疼痛）、前臂被丧尸指甲划出白印（差点破皮）、虎口发麻；装备：拖把杆（末端变形、沾满黏液和碎片）、水果刀（张昊持有）；战斗经验：确认丧尸被水泼眼会本能回避、体型大的力量更强速度更快；队伍：林渊+张昊+苏晴（3人）"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 拖把杆末端变形战斗力下降；苏晴身体虚弱需要照顾；小卖铺内部情况未知；资源仅剩7包泡面2瓶水"
+    },
+    {
+      "source": "story/chapter_summaries.md#2",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "楼道里的东西 | 林渊和张昊食物耗尽后进入410宿舍搜刮资源，遭遇睡眠中的丧尸，近距离搏斗后用拖把杆刺穿其眼眶杀死；获得7包泡面、2.5瓶水、1把水果刀 | 资源从耗尽到短期缓解；确认破坏脑部可杀死丧尸；发现丧尸会睡觉；林渊与张昊协作信任加深但张昊心理受冲击 | new candidates: 408门内状态、丧尸生理特性、张昊心理承受力"
+    },
+    {
+      "source": "story/chapter_summaries.md#3",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "校园 | 林渊和张昊离开宿舍楼前往小卖铺，途中在食堂旁窄巷救下被两只丧尸追击的苏晴，经过激烈战斗杀死两只丧尸，三人抵达小卖铺门口 | 队伍从2人扩大到3人；林渊和张昊完成更高难度战斗；消耗半瓶水；拖把杆末端变形；位置从宿舍楼推进到小卖铺门口 | mystery-408 advanced, mystery-丧尸生理特性 advanced, relationship-张昊 advanced; new candidates: 2楼咀嚼声, 校园生态异常, 小卖铺状况, 苏晴背景"
+    },
+    {
+      "source": "story/pending_hooks.md#relationship-苏晴背景和能-力揭示-苏晴是护理学",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "relationship | open | 苏晴背景和能力揭示 | 苏晴是护理学院大二学生，外形漂亮身材好，被救后对林渊产生依赖感，但暑假为何留校、有何技能、是否可靠尚未揭示"
+    },
+    {
+      "source": "story/pending_hooks.md#mystery-408-408-门内状态揭示-可能是幸存者-丧尸或陷阱",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "mystery | progressing | 408门内状态揭示（可能是幸存者、丧尸或陷阱） | 2楼有门被撞开，内部传出咀嚼声（湿漉漉的、像嚼软骨），暗示丧尸正在进食，但未明确进食对象和行为模式"
+    },
+    {
+      "source": "story/pending_hooks.md#mystery-丧尸生理特性-揭示-体液成分",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "mystery | progressing | 丧尸生理特性揭示（体液成分、感染机制） | 本章新增特性：厨师丧尸体型180斤、力量远超常人、速度快；被水泼眼会本能回避；体型大的丧尸力量更强"
+    }
+  ]
+}

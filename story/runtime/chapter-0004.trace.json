@@ -1,0 +1,35 @@
+{
+  "chapter": 4,
+  "plannerInputs": [
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/author_intent.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/current_focus.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/story_bible.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/volume_outline.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/book_rules.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/current_state.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/pending_hooks.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/chapter_summaries.md",
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/memory.db"
+  ],
+  "composerInputs": [
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/runtime/chapter-0004.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/chapter_summaries.md#2",
+    "story/chapter_summaries.md#3",
+    "story/pending_hooks.md#relationship-苏晴背景和能-力揭示-苏晴是护理学",
+    "story/pending_hooks.md#mystery-408-408-门内状态揭示-可能是幸存者-丧尸或陷阱",
+    "story/pending_hooks.md#mystery-丧尸生理特性-揭示-体液成分"
+  ],
+  "notes": [
+    "allow local outline deferral"
+  ]
+}
