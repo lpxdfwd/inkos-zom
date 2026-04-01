@@ -1,0 +1,23 @@
+{
+  "chapter": 2,
+  "plannerInputs": [
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/runtime/chapter-0002.intent.md"
+  ],
+  "composerInputs": [
+    "/Users/liupeixin/inkos2/books/丧尸末日生存/story/runtime/chapter-0002.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/pending_hooks.md#mystery-408-408-门内状态揭示-可能是幸存者-丧尸或陷阱",
+    "story/pending_hooks.md#mystery-丧尸生理特性-揭示-体液成分",
+    "story/pending_hooks.md#relationship-410-张昊心理承受-力和战斗意愿-的考验"
+  ],
+  "notes": []
+}

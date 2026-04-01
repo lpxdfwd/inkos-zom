@@ -1,0 +1,60 @@
+{
+  "chapter": 2,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "当前阶段重点是全书开局与第一个据点阶段。"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "丧尸病毒突然爆发，秩序在短时间内崩塌"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "林渊带着室友张昊在宿舍楼中求生，确认继续困守只会等死，开始筹划逃往学校小卖铺"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 410战斗暴露了两人战斗能力的不足和心理承受力的差异；宿舍楼内丧尸分布和活动规律仍不明确；短期资源虽有缓解但无法支撑长期困守"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 短期资源危机缓解，但宿舍楼内环境依然危险；需要评估是否继续困守或寻找更安全的长期据点"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 林渊身体状态：饥饿缓解（获得7包泡面）、轻度脱水缓解（获得2.5瓶水）、手掌沾染丧尸体液、心跳过速、手抖；装备：拖把杆（末端沾染体液）、水果刀（刃口约10厘米）；战斗经验：确认破坏脑部可杀死丧尸，亲历丧尸力量远超常人"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 拖把杆已沾染丧尸体液，可能存在感染风险；走廊至少3个丧尸位置已知（楼梯口2个、407/408附近1个）；408门内状态不明但有抓痕；张昊心理状态受冲击，战斗意愿和稳定性存疑"
+    },
+    {
+      "source": "story/pending_hooks.md#mystery-408-408-门内状态揭示-可能是幸存者-丧尸或陷阱",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "mystery | open | 408门内状态揭示（可能是幸存者、丧尸或陷阱） | 408门板底部有外向内的抓痕，但门内无声音，状态不明；林渊观察到但未靠近"
+    },
+    {
+      "source": "story/pending_hooks.md#mystery-丧尸生理特性-揭示-体液成分",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "mystery | open | 丧尸生理特性揭示（体液成分、感染机制） | 丧尸体液是深褐色、比血稠、气味冲鼻；嘴里掉出深色碎片（未明确是什么）；眼球覆盖灰膜无眼白"
+    },
+    {
+      "source": "story/pending_hooks.md#relationship-410-张昊心理承受-力和战斗意愿-的考验",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "relationship | open | 张昊心理承受力和战斗意愿的考验 | 张昊在410战斗后极度恐惧、干呕、脸色灰白；虽然协助战斗但心理冲击明显，后续是否能继续配合存疑"
+    }
+  ]
+}
